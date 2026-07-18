@@ -100,18 +100,18 @@
 
 <p align="center">
   <a href="https://github.com/Kunal-CodeLab/Smart-File-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-CodeLab&repo=Smart-File-Management-System&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="Smart-File-Management-System" height="120" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kunal-CodeLab&repo=Smart-File-Management-System&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="Smart-File-Management-System" height="120" />
   </a>
   <a href="https://github.com/Kunal-CodeLab/Auto-Git-Backup-Tool-for-Windows">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-CodeLab&repo=Auto-Git-Backup-Tool-for-Windows&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="Auto-Git-Backup-Tool-for-Windows" height="120" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kunal-CodeLab&repo=Auto-Git-Backup-Tool-for-Windows&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="Auto-Git-Backup-Tool-for-Windows" height="120" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Kunal-CodeLab/trading_bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-CodeLab&repo=trading_bot&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="trading_bot" height="120" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kunal-CodeLab&repo=trading_bot&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="trading_bot" height="120" />
   </a>
   <a href="https://github.com/Kunal-CodeLab/Vulnerability-Scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-CodeLab&repo=Vulnerability-Scanner&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="Vulnerability-Scanner" height="120" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kunal-CodeLab&repo=Vulnerability-Scanner&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="Vulnerability-Scanner" height="120" />
   </a>
 </p>
 
@@ -121,7 +121,7 @@
 
 <p align="center">
   <a href="https://github.com/Kunal-CodeLab">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kunal-CodeLab&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=c9d1d9&icon_color=06b6d4" alt="Kunal's GitHub Stats" height="180" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Kunal-CodeLab&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=c9d1d9&icon_color=06b6d4" alt="Kunal's GitHub Stats" height="180" />
   </a>
   <a href="https://github.com/Kunal-CodeLab">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-CodeLab&theme=dark&hide_border=true&background=0d1117&ring=06b6d4&fire=06b6d4&stroke=000000&currStreakNum=06b6d4" alt="Kunal's Streak" height="180" />
