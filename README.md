@@ -47,32 +47,49 @@
 </table>
 
 ---
-
 ## Tech Stack & Tools
 
 <table>
   <tr>
     <td align="center" width="20%"><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap" alt="Frontend Stack" />
+      <img src="https://img.shields.io/badge/HTML5--0d1117?style=flat-square&logo=html5&logoColor=06b6d4" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3--0d1117?style=flat-square&logo=css3&logoColor=06b6d4" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript--0d1117?style=flat-square&logo=javascript&logoColor=06b6d4" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript--0d1117?style=flat-square&logo=typescript&logoColor=06b6d4" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/React--0d1117?style=flat-square&logo=react&logoColor=06b6d4" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js--0d1117?style=flat-square&logo=nextdotjs&logoColor=06b6d4" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS--0d1117?style=flat-square&logo=tailwindcss&logoColor=06b6d4" alt="Tailwind" />
+      <img src="https://img.shields.io/badge/Bootstrap--0d1117?style=flat-square&logo=bootstrap&logoColor=06b6d4" alt="Bootstrap" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" alt="Backend Stack" />
+      <img src="https://img.shields.io/badge/Node.js--0d1117?style=flat-square&logo=nodedotjs&logoColor=06b6d4" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express--0d1117?style=flat-square&logo=express&logoColor=06b6d4" alt="Express" />
+      <img src="https://img.shields.io/badge/Python--0d1117?style=flat-square&logo=python&logoColor=06b6d4" alt="Python" />
+      <img src="https://img.shields.io/badge/Flask--0d1117?style=flat-square&logo=flask&logoColor=06b6d4" alt="Flask" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Databases</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
+      <img src="https://img.shields.io/badge/MongoDB--0d1117?style=flat-square&logo=mongodb&logoColor=06b6d4" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/MySQL--0d1117?style=flat-square&logo=mysql&logoColor=06b6d4" alt="MySQL" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Tools &amp; DevOps</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,postman,npm" alt="Tools &amp; DevOps" />
+      <img src="https://img.shields.io/badge/Git--0d1117?style=flat-square&logo=git&logoColor=06b6d4" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub--0d1117?style=flat-square&logo=github&logoColor=06b6d4" alt="GitHub" />
+      <img src="https://img.shields.io/badge/VS_Code--0d1117?style=flat-square&logo=visualstudiocode&logoColor=06b6d4" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Figma--0d1117?style=flat-square&logo=figma&logoColor=06b6d4" alt="Figma" />
+      <img src="https://img.shields.io/badge/Vercel--0d1117?style=flat-square&logo=vercel&logoColor=06b6d4" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Netlify--0d1117?style=flat-square&logo=netlify&logoColor=06b6d4" alt="Netlify" />
+      <img src="https://img.shields.io/badge/Postman--0d1117?style=flat-square&logo=postman&logoColor=06b6d4" alt="Postman" />
+      <img src="https://img.shields.io/badge/NPM--0d1117?style=flat-square&logo=npm&logoColor=06b6d4" alt="NPM" />
     </td>
   </tr>
 </table>
@@ -81,20 +98,35 @@
 
 ## Featured Work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>KC Software Solutions Website</h4>
-      <p>The official business website showcasing services, case studies, and modern frontend design.</p>
-      <a href="https://github.com/Kunal-CodeLab" target="_blank"><b>Repository</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Automation Suite &amp; Dashboard</h4>
-      <p>Custom dashboard with analytics, reporting, and workflows designed to reduce operational manual tasks.</p>
-      <a href="https://github.com/Kunal-CodeLab" target="_blank"><b>Repository</b></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Kunal-CodeLab/Smart-File-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-CodeLab&repo=Smart-File-Management-System&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="Smart-File-Management-System" height="120" />
+  </a>
+  <a href="https://github.com/Kunal-CodeLab/Auto-Git-Backup-Tool-for-Windows">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-CodeLab&repo=Auto-Git-Backup-Tool-for-Windows&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="Auto-Git-Backup-Tool-for-Windows" height="120" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Kunal-CodeLab/trading_bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-CodeLab&repo=trading_bot&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="trading_bot" height="120" />
+  </a>
+  <a href="https://github.com/Kunal-CodeLab/Vulnerability-Scanner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-CodeLab&repo=Vulnerability-Scanner&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="Vulnerability-Scanner" height="120" />
+  </a>
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <a href="https://github.com/Kunal-CodeLab">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kunal-CodeLab&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=c9d1d9&icon_color=06b6d4" alt="Kunal's GitHub Stats" height="180" />
+  </a>
+  <a href="https://github.com/Kunal-CodeLab">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-CodeLab&theme=dark&hide_border=true&background=0d1117&ring=06b6d4&fire=06b6d4&stroke=000000&currStreakNum=06b6d4" alt="Kunal's Streak" height="180" />
+  </a>
+</p>
 
 ---
 
@@ -109,6 +141,9 @@
   </a>
   <a href="mailto:kunal.codes5@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://calendly.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/Schedule_Call-Calendly-06b6d4?style=for-the-badge&logo=calendly&logoColor=white" alt="Schedule a Call" />
   </a>
 </p>
 
