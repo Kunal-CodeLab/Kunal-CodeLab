@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.svg" alt="Kunal Choudhary Banner" width="800" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=06b6d4&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Founder+of+KC+Software+Solutions;Building+Modern+Web+Applications" alt="Typing SVG" />
