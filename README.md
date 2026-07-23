@@ -22,7 +22,6 @@
       <h3>Quick Info</h3>
       <ul>
         <li><b>Role:</b> Founder &amp; Lead Developer</li>
-        <li><b>Company:</b> KC Software Solutions</li>
         <li><b>Location:</b> India (Available Worldwide)</li>
         <li><b>Email:</b> <a href="mailto:kunal.codes5@gmail.com">kunal.codes5@gmail.com</a></li>
       </ul>
