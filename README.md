@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=06b6d4&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=06b6d4&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;C%23+.NET+%26+Systems+Developer;DevOps+%26+Security+Automation" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,16 +14,15 @@
   <tr>
     <td width="65%" valign="top">
       <h3>About Me</h3>
-      <p>I develop modern, scalable, and high-performance web applications for startups, businesses, and agencies.</p>
-      <p>My focus is on building products that are fast, responsive, maintainable, and designed to solve real business problems. Whether it's a company website, business automation software, or a custom web application, I strive to deliver clean code and long-term value.</p>
-      <p>I specialize in translating complex requirements into elegant, high-performing software systems with robust and scalable architectures.</p>
+      <p>I am a results-driven Full-Stack & Systems Developer specializing in low-latency desktop applications, cloud infrastructure automation, and security tools. With professional experience building production-grade software, I bridge the gap between robust backend services and seamless user interfaces.</p>
+      <p>My focus is on designing performant architectures, optimizing application loading speeds, and automating complex workflows to resolve real-world developer and business bottlenecks.</p>
     </td>
     <td width="35%" valign="top" align="center">
       <img src="./pic_compressed.png" alt="Kunal Choudhary" width="130" style="border-radius: 50%;" />
       <br/>
       <ul align="left">
-        <li>💼 <b>Role:</b> Full Stack Developer</li>
-        <li>📍 <b>Location:</b> India (Available Worldwide)</li>
+        <li>💼 <b>Role:</b> Full-Stack Developer</li>
+        <li>📍 <b>Location:</b> Jaipur, Rajasthan, India</li>
         <li>📧 <b>Email:</b> <a href="mailto:kunal.codes5@gmail.com">kunal.codes5@gmail.com</a></li>
       </ul>
     </td>
@@ -111,11 +110,11 @@
 
 Here are some of the key open-source projects I've built and maintained:
 
-* 📁 **[Smart File Management System](https://github.com/Kunal-CodeLab/Smart-File-Management-System)**: A rules-based desktop utility to automate local file organization and optimize storage.
-* ⚙️ **[Automated DevOps Infrastructure](https://github.com/Kunal-CodeLab/Automated-DevOps-Infrastructure)**: Infrastructure as Code (IaC) templates and Ansible playbooks to provision secure, high-availability AWS environments.
-* 🔍 **[Windows Forensic Analysis Tool](https://github.com/Kunal-CodeLab/Windows-Forensic-Analysis-Tool)**: A digital forensics suite built with Python and PyQt5 for automated evidence extraction and raw disk artifact parsing.
-* 🔊 **[SonicBoard](https://github.com/Kunal-CodeLab/SonicBoard)**: A premium C#/.NET 8 WPF soundboard application featuring global hotkeys, audio routing, and low-latency playback.
-* 🔄 **[GitAuto-Push](https://github.com/Kunal-CodeLab/GitAuto-Push)**: A high-speed developer utility built with Node.js to automate Git repository operations and workspace sync.
+* 📁 **[Smart File Management System](https://github.com/Kunal-CodeLab/Smart-File-Management-System)**: A C#/.NET desktop utility implementing the Win32 File I/O API to automate local directory indexing and organization, handling 10,000+ files with zero data loss.
+* ⚙️ **[Automated DevOps Infrastructure](https://github.com/Kunal-CodeLab/Automated-DevOps-Infrastructure)**: Infrastructure as Code (IaC) configurations using Terraform & Ansible to deploy high-availability, multi-AZ Nginx servers on AWS with integrated CloudWatch monitoring.
+* 🔍 **[Windows Forensic Analysis Tool](https://github.com/Kunal-CodeLab/Windows-Forensic-Analysis-Tool)**: A PyQt5-based digital forensics application designed to extract and parse Windows registries and raw disk artifacts, processing file metadata 3x faster.
+* 🔊 **[SonicBoard](https://github.com/Kunal-CodeLab/SonicBoard)**: A premium C#/.NET 8 WPF soundboard application featuring global hotkeys, multi-device audio routing, and low-latency playback.
+* 🔄 **[GitAuto-Push](https://github.com/Kunal-CodeLab/GitAuto-Push)**: A lightweight Node.js daemon script designed to monitor workspace folders and automatically synchronize changes to Git repositories.
 
 <p align="center">
   <a href="https://github.com/Kunal-CodeLab/Smart-File-Management-System">
@@ -156,9 +155,9 @@ Here are some of the key open-source projects I've built and maintained:
 
 ## ⚡ Quick Stats
 
-* 🎓 **Currently focusing on:** Scalable system design, API performance tuning, and workflow automations.
-* 💬 **Ask me about:** React, Next.js, Node.js, Express, Python scripting, and security auditing.
-* 🚀 **Fun Fact:** I love building tools that save time by automating repetitive manual tasks.
+* 🎓 **Currently focusing on:** System Architectures, Digital Forensics, and DevOps Automation.
+* 💬 **Ask me about:** C#/.NET WPF, Node.js, Python scripting, AWS Cloud, and Security Auditing.
+* 🚀 **Fun Fact:** I believe automation is the key to solving cognitive fatigue.
 
 ---
 
@@ -168,14 +167,14 @@ Here are some of the key open-source projects I've built and maintained:
   <a href="https://github.com/Kunal-CodeLab" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/kunal-choudhary-a5b781376/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:kunal.codes5@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://calendly.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/Schedule_Call-Calendly-06b6d4?style=for-the-badge&logo=calendly&logoColor=white" alt="Schedule a Call" />
+  <a href="https://kunal-tech.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-06b6d4?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Website" />
   </a>
 </p>
 
