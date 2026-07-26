@@ -111,25 +111,31 @@
 
 Here are some of the key open-source projects I've built and maintained:
 
-* 📁 **[Smart File Management System](https://github.com/Kunal-CodeLab/Smart-File-Management-System)**: A smart, rules-based system to organize, search, and categorize local files.
-* 🔄 **[Auto Git Backup Tool for Windows](https://github.com/Kunal-CodeLab/Auto-Git-Backup-Tool-for-Windows)**: A lightweight daemon script to automatically push folder updates directly to Git repositories.
-* 🤖 **[Trading Bot](https://github.com/Kunal-CodeLab/trading_bot)**: Algorithmic trading system designed to parse market data and execute smart buys/sells.
-* 🛡️ **[Vulnerability Scanner](https://github.com/Kunal-CodeLab/Vulnerability-Scanner)**: Security scanner auditing projects for outdated packages and vulnerable entry points.
+* 📁 **[Smart File Management System](https://github.com/Kunal-CodeLab/Smart-File-Management-System)**: A rules-based desktop utility to automate local file organization and optimize storage.
+* ⚙️ **[Automated DevOps Infrastructure](https://github.com/Kunal-CodeLab/Automated-DevOps-Infrastructure)**: Infrastructure as Code (IaC) templates and Ansible playbooks to provision secure, high-availability AWS environments.
+* 🔍 **[Windows Forensic Analysis Tool](https://github.com/Kunal-CodeLab/Windows-Forensic-Analysis-Tool)**: A digital forensics suite built with Python and PyQt5 for automated evidence extraction and raw disk artifact parsing.
+* 🔊 **[SonicBoard](https://github.com/Kunal-CodeLab/SonicBoard)**: A premium C#/.NET 8 WPF soundboard application featuring global hotkeys, audio routing, and low-latency playback.
+* 🔄 **[GitAuto-Push](https://github.com/Kunal-CodeLab/GitAuto-Push)**: A high-speed developer utility built with Node.js to automate Git repository operations and workspace sync.
 
 <p align="center">
   <a href="https://github.com/Kunal-CodeLab/Smart-File-Management-System">
     <img src="https://github-stats-extended.vercel.app/api/pin?username=Kunal-CodeLab&repo=Smart-File-Management-System&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="Smart-File-Management-System" height="120" />
   </a>
-  <a href="https://github.com/Kunal-CodeLab/Auto-Git-Backup-Tool-for-Windows">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kunal-CodeLab&repo=Auto-Git-Backup-Tool-for-Windows&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="Auto-Git-Backup-Tool-for-Windows" height="120" />
+  <a href="https://github.com/Kunal-CodeLab/Automated-DevOps-Infrastructure">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kunal-CodeLab&repo=Automated-DevOps-Infrastructure&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="Automated-DevOps-Infrastructure" height="120" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Kunal-CodeLab/trading_bot">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kunal-CodeLab&repo=trading_bot&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="trading_bot" height="120" />
+  <a href="https://github.com/Kunal-CodeLab/Windows-Forensic-Analysis-Tool">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kunal-CodeLab&repo=Windows-Forensic-Analysis-Tool&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="Windows-Forensic-Analysis-Tool" height="120" />
   </a>
-  <a href="https://github.com/Kunal-CodeLab/Vulnerability-Scanner">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kunal-CodeLab&repo=Vulnerability-Scanner&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="Vulnerability-Scanner" height="120" />
+  <a href="https://github.com/Kunal-CodeLab/SonicBoard">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kunal-CodeLab&repo=SonicBoard&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="SonicBoard" height="120" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Kunal-CodeLab/GitAuto-Push">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kunal-CodeLab&repo=GitAuto-Push&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="GitAuto-Push" height="120" />
   </a>
 </p>
 
