@@ -72,36 +72,23 @@
 
 ### 💻 Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5--0d1117?style=flat-square&logo=html5&logoColor=06b6d4" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3--0d1117?style=flat-square&logo=css3&logoColor=06b6d4" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript--0d1117?style=flat-square&logo=javascript&logoColor=06b6d4" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript--0d1117?style=flat-square&logo=typescript&logoColor=06b6d4" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React--0d1117?style=flat-square&logo=react&logoColor=06b6d4" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js--0d1117?style=flat-square&logo=nextdotjs&logoColor=06b6d4" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS--0d1117?style=flat-square&logo=tailwindcss&logoColor=06b6d4" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Bootstrap--0d1117?style=flat-square&logo=bootstrap&logoColor=06b6d4" alt="Bootstrap" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Tech Stack" />
+  </a>
 </p>
 
 ### ⚙️ Backend & Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js--0d1117?style=flat-square&logo=nodedotjs&logoColor=06b6d4" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express--0d1117?style=flat-square&logo=express&logoColor=06b6d4" alt="Express" />
-  <img src="https://img.shields.io/badge/Python--0d1117?style=flat-square&logo=python&logoColor=06b6d4" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask--0d1117?style=flat-square&logo=flask&logoColor=06b6d4" alt="Flask" />
-  <img src="https://img.shields.io/badge/MongoDB--0d1117?style=flat-square&logo=mongodb&logoColor=06b6d4" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL--0d1117?style=flat-square&logo=mysql&logoColor=06b6d4" alt="MySQL" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,py,flask,mongodb,mysql" alt="Backend Tech Stack" />
+  </a>
 </p>
 
 ### 🛠️ Tools & DevOps
 <p align="left">
-  <img src="https://img.shields.io/badge/Git--0d1117?style=flat-square&logo=git&logoColor=06b6d4" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub--0d1117?style=flat-square&logo=github&logoColor=06b6d4" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code--0d1117?style=flat-square&logo=visualstudiocode&logoColor=06b6d4" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma--0d1117?style=flat-square&logo=figma&logoColor=06b6d4" alt="Figma" />
-  <img src="https://img.shields.io/badge/Vercel--0d1117?style=flat-square&logo=vercel&logoColor=06b6d4" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Netlify--0d1117?style=flat-square&logo=netlify&logoColor=06b6d4" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Postman--0d1117?style=flat-square&logo=postman&logoColor=06b6d4" alt="Postman" />
-  <img src="https://img.shields.io/badge/NPM--0d1117?style=flat-square&logo=npm&logoColor=06b6d4" alt="NPM" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,postman,npm,aws,terraform,ansible,docker" alt="Tools & DevOps" />
+  </a>
 </p>
 
 ---
