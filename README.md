@@ -121,12 +121,12 @@ Here are some of the key open-source projects I've built and maintained:
     <img src="https://github-stats-extended.vercel.app/api/pin?username=Kunal-CodeLab&repo=Smart-File-Management-System&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="Smart-File-Management-System" height="120" />
   </a>
   <a href="https://github.com/Kunal-CodeLab/Automated-DevOps-Infrastructure">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kunal-CodeLab&repo=Automated-DevOps-Infrastructure&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="Automated-DevOps-Infrastructure" height="120" />
+    <img src="./devops-card.svg" alt="Automated-DevOps-Infrastructure" height="120" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Kunal-CodeLab/Windows-Forensic-Analysis-Tool">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kunal-CodeLab&repo=Windows-Forensic-Analysis-Tool&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="Windows-Forensic-Analysis-Tool" height="120" />
+    <img src="./forensic-card.svg" alt="Windows-Forensic-Analysis-Tool" height="120" />
   </a>
   <a href="https://github.com/Kunal-CodeLab/SonicBoard">
     <img src="https://github-stats-extended.vercel.app/api/pin?username=Kunal-CodeLab&repo=SonicBoard&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="SonicBoard" height="120" />
