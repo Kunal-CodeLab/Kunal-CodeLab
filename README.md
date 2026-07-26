@@ -111,22 +111,22 @@
 Here are some of the key open-source projects I've built and maintained:
 
 * 📁 **[Smart File Management System](https://github.com/Kunal-CodeLab/Smart-File-Management-System)**: A C#/.NET desktop utility implementing the Win32 File I/O API to automate local directory indexing and organization, handling 10,000+ files with zero data loss.
-* ⚙️ **[Automated DevOps Infrastructure](https://github.com/Kunal-CodeLab/Automated-DevOps-Infrastructure)**: Infrastructure as Code (IaC) configurations using Terraform & Ansible to deploy high-availability, multi-AZ Nginx servers on AWS with integrated CloudWatch monitoring.
-* 🔍 **[Windows Forensic Analysis Tool](https://github.com/Kunal-CodeLab/Windows-Forensic-Analysis-Tool)**: A PyQt5-based digital forensics application designed to extract and parse Windows registries and raw disk artifacts, processing file metadata 3x faster.
-* 🔊 **[SonicBoard](https://github.com/Kunal-CodeLab/SonicBoard)**: A premium C#/.NET 8 WPF soundboard application featuring global hotkeys, multi-device audio routing, and low-latency playback.
+* ⚙️ **[Automated DevOps Infrastructure](https://github.com/Kunal-CodeLab/devops-infrastructure-project)**: Infrastructure as Code (IaC) configurations using Terraform & Ansible to deploy high-availability, multi-AZ Nginx servers on AWS with integrated CloudWatch monitoring.
+* 🔍 **[Windows Forensic Analysis Tool](https://github.com/Kunal-CodeLab/forensic_analysis_tool_complete)**: A PyQt5-based digital forensics application designed to extract and parse Windows registries and raw disk artifacts, processing file metadata 3x faster.
+* 🔊 **[SonicBoard](https://github.com/Kunal-CodeLab/SonicBoard)**: A premium C#/.NET 8 WPF soundboard application featuring global hotkeys, audio routing, and low-latency playback.
 * 🔄 **[GitAuto-Push](https://github.com/Kunal-CodeLab/GitAuto-Push)**: A lightweight Node.js daemon script designed to monitor workspace folders and automatically synchronize changes to Git repositories.
 
 <p align="center">
   <a href="https://github.com/Kunal-CodeLab/Smart-File-Management-System">
     <img src="https://github-stats-extended.vercel.app/api/pin?username=Kunal-CodeLab&repo=Smart-File-Management-System&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="Smart-File-Management-System" height="120" />
   </a>
-  <a href="https://github.com/Kunal-CodeLab/Automated-DevOps-Infrastructure">
-    <img src="./devops-card.svg" alt="Automated-DevOps-Infrastructure" height="120" />
+  <a href="https://github.com/Kunal-CodeLab/devops-infrastructure-project">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kunal-CodeLab&repo=devops-infrastructure-project&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="devops-infrastructure-project" height="120" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Kunal-CodeLab/Windows-Forensic-Analysis-Tool">
-    <img src="./forensic-card.svg" alt="Windows-Forensic-Analysis-Tool" height="120" />
+  <a href="https://github.com/Kunal-CodeLab/forensic_analysis_tool_complete">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kunal-CodeLab&repo=forensic_analysis_tool_complete&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="forensic_analysis_tool_complete" height="120" />
   </a>
   <a href="https://github.com/Kunal-CodeLab/SonicBoard">
     <img src="https://github-stats-extended.vercel.app/api/pin?username=Kunal-CodeLab&repo=SonicBoard&theme=dark&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4" alt="SonicBoard" height="120" />
